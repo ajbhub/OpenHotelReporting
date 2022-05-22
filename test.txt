@@ -1,9 +1,0 @@
-<root>
-	<access>
-		<username>aaron.j.bumgarner@gmail.com</username>
-		<password>mqx9jsr9gkweqql</password>
-	</access>
-	<data>
-		<unit_number></unit_number>
-	</data>
-</root>
